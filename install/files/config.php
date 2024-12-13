@@ -1,0 +1,1 @@
+<?php return [ "vendor" => "main", "directory" => "local", "site_template" => "main" ];?>
